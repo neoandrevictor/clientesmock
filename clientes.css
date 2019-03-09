@@ -1,0 +1,8 @@
+table, td, tr, th {
+	width: 100%;
+	border:solid 1px black !important;
+}
+
+body {
+	padding: 1em 2em;
+}
